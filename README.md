@@ -46,7 +46,7 @@ This Django project implements a RESTful API for a social networking application
 ## API Documentation
 **Postman Collection :**
 
-Import the provided Postman collection (Social Network API.postman_collection.json) into your Postman application. 
+Import the provided Postman collection (SocialNetworkAPI.postman_collection.json) into your Postman application. 
 The collection includes examples of various API endpoints:
 
 - User Signup
