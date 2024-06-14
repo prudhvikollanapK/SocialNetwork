@@ -58,3 +58,6 @@ The collection includes examples of various API endpoints:
 - List Friends
 - List Pending Friend Requests
 
+## Database administration
+
+http://localhost:8000/admin/
